@@ -11,9 +11,11 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **dfhtoo121@gmail.com**
+- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtooLynnHtet)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HtooLynnHtet)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left">
 <a href="https://twitter.com/htoolynnhtet1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htoolynnhtet1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/htoo-lynn-htet-567047183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htoo-lynn-htet-567047183" height="30" width="40" /></a>
