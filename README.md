@@ -1,4 +1,4 @@
-![Alpha zeec](https://github.com/HtooLynnHtet/HtooLynnHtet/blob/main/photo_2021-08-22_09-44-26.jpg)
+![Alpha zeec](https://github.com/HtooLynnHtet/HtooLynnHtet/blob/main/photo_2021-08-22_09-44-26%20(2).jpg)
 <h1 align="center">Hi 👋, I'm HtooLynnHtet</h1>
 <h3 align="center">A passionate data analyst from Myanmar</h3>
 
