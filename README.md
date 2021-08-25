@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **R programming, Data analytics and Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HtooLynnHtet](https://github.com/HtooLynnHtet)
+- 👨‍💻 All of my projects are available at [https://github.com/HtooLynnHtet?tab=projects](https://github.com/HtooLynnHtet)
 
 - 💬 Ask me about **Python**
 
