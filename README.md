@@ -1,6 +1,6 @@
 ![Alpha zeec](https://github.com/HtooLynnHtet/HtooLynnHtet/blob/main/photo_2021-08-22_09-44-26%20(2).jpg)
 <h1 align="center">Hi 👋, I'm HtooLynnHtet</h1>
-<h3 align="center">A passionate data analyst from Myanmar</h3>
+<h3 align="center">An IT student from Myanmar</h3>
 
 <p align="left"> <a href="https://twitter.com/htoolynnhtet1" target="blank"><img src="https://img.shields.io/twitter/follow/htoolynnhtet1?logo=twitter&style=for-the-badge" alt="htoolynnhtet1" /></a> </p>
 
