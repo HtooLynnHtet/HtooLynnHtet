@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/htoolynnhtet1" target="blank"><img src="https://img.shields.io/twitter/follow/htoolynnhtet1?logo=twitter&style=for-the-badge" alt="htoolynnhtet1" /></a> </p>
 
-- 🌱 I’m currently learning **R programming, Data analytics and Data Science**
+- 🌱 I’m currently learning **Python, AI, Data analytics and Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HtooLynnHtet?tab=projects](https://github.com/HtooLynnHtet)
 
